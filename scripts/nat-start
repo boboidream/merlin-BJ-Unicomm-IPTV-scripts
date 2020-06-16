@@ -29,6 +29,6 @@ init_config
        
 configure_meo_rules
 
-#init ss
-sleep 10
-sh /koolshare/ss/game/nat-start
+#=====================================================bobo====================
+dbus fire onnatstart
+sh /koolshare/ss/ssconfig.sh
